@@ -31,12 +31,12 @@ Once target lane and speed is decided, trajectory is calculated using spline. Th
 ### Output
 
 As a result -
--- The car could drive at least 4.32 miles without incident.
--- The car could drive according to the speed limit.
--- The car did not exceed a total acceleration of 10 m/s^2 and a jerk of 10 m/s^3.
--- The car never came into contact with any of the other cars on the road.
--- The car stayed in its lane, except for the time between changing lanes.
--- The car could change lanes whenever required and possible.
+- The car could drive at least 4.32 miles without incident.
+- The car could drive according to the speed limit.
+- The car did not exceed a total acceleration of 10 m/s^2 and a jerk of 10 m/s^3.
+- The car never came into contact with any of the other cars on the road.
+- The car stayed in its lane, except for the time between changing lanes.
+- The car could change lanes whenever required and possible.
 
 ![alt text](output/output_video.gif "output_video")
 
